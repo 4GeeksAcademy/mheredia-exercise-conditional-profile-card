@@ -105,7 +105,8 @@ document.querySelectorAll(".picker").forEach(function(elm) {
   });
 ```
 
-So when the elements contents "change" they will already update the variable values for each element. All you need to do is to update the HTML content inside `render` function, as mentioned on instruction 1.
+So when the elements contents "change" they will already update the variable values for each element. 
+All you need to do is to update the HTML content inside `render` function, as mentioned on instruction 1.
 
 ## Initial Variable Values
 
